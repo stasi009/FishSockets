@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug
+/FishSockets/bin/Debug
+/FishSockets/obj/Debug
+/FishSockets.Test/bin/Debug
+/FishSockets.Test/obj/Debug
+/FishSockets.Helper/obj/Debug
+*.suo

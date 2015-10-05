@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FishSockets", "FishSockets\FishSockets.fsproj", "{85CCA8E3-1F66-4E08-BA41-BDC05112BDEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishSockets.Helper", "FishSockets.Helper\FishSockets.Helper.csproj", "{98E04881-CD7C-4B34-9A7E-E4E94792CAC3}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FishSockets.Test", "FishSockets.Test\FishSockets.Test.fsproj", "{12987D7B-A964-424F-8F89-B3CA736807AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85CCA8E3-1F66-4E08-BA41-BDC05112BDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85CCA8E3-1F66-4E08-BA41-BDC05112BDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85CCA8E3-1F66-4E08-BA41-BDC05112BDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85CCA8E3-1F66-4E08-BA41-BDC05112BDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E04881-CD7C-4B34-9A7E-E4E94792CAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E04881-CD7C-4B34-9A7E-E4E94792CAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E04881-CD7C-4B34-9A7E-E4E94792CAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E04881-CD7C-4B34-9A7E-E4E94792CAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12987D7B-A964-424F-8F89-B3CA736807AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12987D7B-A964-424F-8F89-B3CA736807AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12987D7B-A964-424F-8F89-B3CA736807AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12987D7B-A964-424F-8F89-B3CA736807AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
